@@ -1,0 +1,14 @@
+C:\Users\equitec\Desktop\Albar\Day_10\Csharp_0\Csharp_0\obj\Debug\net8.0\Csharp_0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\equitec\Desktop\Albar\Day_10\Csharp_0\Csharp_0\obj\Debug\net8.0\Csharp_0.AssemblyInfoInputs.cache
+C:\Users\equitec\Desktop\Albar\Day_10\Csharp_0\Csharp_0\obj\Debug\net8.0\Csharp_0.AssemblyInfo.cs
+C:\Users\equitec\Desktop\Albar\Day_10\Csharp_0\Csharp_0\obj\Debug\net8.0\Csharp_0.csproj.CoreCompileInputs.cache
+C:\Users\equitec\Desktop\Albar\Day_10\Csharp_0\Csharp_0\bin\Debug\net8.0\Csharp_0.exe
+C:\Users\equitec\Desktop\Albar\Day_10\Csharp_0\Csharp_0\bin\Debug\net8.0\Csharp_0.deps.json
+C:\Users\equitec\Desktop\Albar\Day_10\Csharp_0\Csharp_0\bin\Debug\net8.0\Csharp_0.runtimeconfig.json
+C:\Users\equitec\Desktop\Albar\Day_10\Csharp_0\Csharp_0\bin\Debug\net8.0\Csharp_0.dll
+C:\Users\equitec\Desktop\Albar\Day_10\Csharp_0\Csharp_0\bin\Debug\net8.0\Csharp_0.pdb
+C:\Users\equitec\Desktop\Albar\Day_10\Csharp_0\Csharp_0\obj\Debug\net8.0\Csharp_0.dll
+C:\Users\equitec\Desktop\Albar\Day_10\Csharp_0\Csharp_0\obj\Debug\net8.0\refint\Csharp_0.dll
+C:\Users\equitec\Desktop\Albar\Day_10\Csharp_0\Csharp_0\obj\Debug\net8.0\Csharp_0.pdb
+C:\Users\equitec\Desktop\Albar\Day_10\Csharp_0\Csharp_0\obj\Debug\net8.0\Csharp_0.genruntimeconfig.cache
+C:\Users\equitec\Desktop\Albar\Day_10\Csharp_0\Csharp_0\obj\Debug\net8.0\ref\Csharp_0.dll

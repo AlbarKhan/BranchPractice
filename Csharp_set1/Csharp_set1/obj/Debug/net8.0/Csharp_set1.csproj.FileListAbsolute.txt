@@ -1,0 +1,14 @@
+C:\Users\equitec\Desktop\Albar\Day_11\Csharp_set1\Csharp_set1\bin\Debug\net8.0\Csharp_set1.exe
+C:\Users\equitec\Desktop\Albar\Day_11\Csharp_set1\Csharp_set1\bin\Debug\net8.0\Csharp_set1.deps.json
+C:\Users\equitec\Desktop\Albar\Day_11\Csharp_set1\Csharp_set1\bin\Debug\net8.0\Csharp_set1.runtimeconfig.json
+C:\Users\equitec\Desktop\Albar\Day_11\Csharp_set1\Csharp_set1\bin\Debug\net8.0\Csharp_set1.dll
+C:\Users\equitec\Desktop\Albar\Day_11\Csharp_set1\Csharp_set1\bin\Debug\net8.0\Csharp_set1.pdb
+C:\Users\equitec\Desktop\Albar\Day_11\Csharp_set1\Csharp_set1\obj\Debug\net8.0\Csharp_set1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\equitec\Desktop\Albar\Day_11\Csharp_set1\Csharp_set1\obj\Debug\net8.0\Csharp_set1.AssemblyInfoInputs.cache
+C:\Users\equitec\Desktop\Albar\Day_11\Csharp_set1\Csharp_set1\obj\Debug\net8.0\Csharp_set1.AssemblyInfo.cs
+C:\Users\equitec\Desktop\Albar\Day_11\Csharp_set1\Csharp_set1\obj\Debug\net8.0\Csharp_set1.csproj.CoreCompileInputs.cache
+C:\Users\equitec\Desktop\Albar\Day_11\Csharp_set1\Csharp_set1\obj\Debug\net8.0\Csharp_set1.dll
+C:\Users\equitec\Desktop\Albar\Day_11\Csharp_set1\Csharp_set1\obj\Debug\net8.0\refint\Csharp_set1.dll
+C:\Users\equitec\Desktop\Albar\Day_11\Csharp_set1\Csharp_set1\obj\Debug\net8.0\Csharp_set1.pdb
+C:\Users\equitec\Desktop\Albar\Day_11\Csharp_set1\Csharp_set1\obj\Debug\net8.0\Csharp_set1.genruntimeconfig.cache
+C:\Users\equitec\Desktop\Albar\Day_11\Csharp_set1\Csharp_set1\obj\Debug\net8.0\ref\Csharp_set1.dll
